@@ -8,7 +8,6 @@ const Header = ({gameState, currentPlayer, winPlayer}) => {
 
             return <div>Player {currentPlayer} Turn</div>
                 
-                break;
 
             case GAME_STATE_WIN:
 
